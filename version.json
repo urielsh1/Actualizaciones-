@@ -1,5 +1,0 @@
-{
-  "version": "1.7.7",
-  "name": "SOPA DE 2",
-  "notes": "Rediseno: menu de datos MI PERFIL con foto grande, vista previa de como te veras en el Top, nombre, edad, sexo con botones, pais. Al guardar sube todo al servidor (datos, foto, victorias y derrotas) con estado visible. Ranking rediseniado con podio dorado/plateado/bronce, barra de porcentaje de victorias y sexo."
-}
