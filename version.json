@@ -1,0 +1,5 @@
+{
+  "version": "1.6.1",
+  "name": "SOPA DE 2",
+  "notes": "Responsive: en dispositivos chicos los botones, la sopa, el ping y las ventanas se acomodan solos (botones en fila se envuelven, titulo no queda bajo el chip de ping). Sin cambios en el juego ni en el multijugador."
+}
