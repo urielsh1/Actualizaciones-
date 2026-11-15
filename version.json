@@ -1,5 +1,0 @@
-{
-  "version": "1.7.5",
-  "name": "SOPA DE 2",
-  "notes": "Top/ranking blindado: el servidor ya guarda el ranking en archivo (no se borra al reiniciar), si el servidor queda vacio cada telefono vuelve a subir a todos los que tiene guardados, fotos comprimidas para que no llenen el guardado, y si no cabe se guardan nombres y estadisticas sin foto antes que perderlos."
-}
