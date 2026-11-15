@@ -1,0 +1,5 @@
+{
+  "version": "1.4.2",
+  "fecha": "2026-11-15",
+  "nota": "Multijugador 10 palabras aleatorias 1:30, gana el que mas encuentre o complete las 10"
+}
