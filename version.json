@@ -1,0 +1,5 @@
+{
+  "version": "1.6.2",
+  "name": "SOPA DE 2",
+  "notes": "Codigo de sala: solo se muestra en CREAR SALA mientras espera; en ALEATORIA nunca se muestra; al entrar al juego se quita de la pantalla."
+}
