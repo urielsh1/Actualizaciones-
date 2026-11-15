@@ -1,5 +1,0 @@
-{
-  "version": "1.7.3",
-  "name": "SOPA DE 2",
-  "notes": "Arreglado: la palabra encontrada ahora si cuenta para quien la encontro (antes el Jugador 2 marcaba como si fuera el 1 y el otro telefono la ignoraba). Las diagonales ya se pueden seleccionar en 2 toques. Las letras de la sopa se tachan en los 2 telefonos."
-}
