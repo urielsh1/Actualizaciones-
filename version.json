@@ -1,0 +1,5 @@
+{
+  "version": "1.7.2",
+  "name": "SOPA DE 2",
+  "notes": "Cuando un jugador encuentra una palabra, las letras en la sopa quedan TACHADAS en los 2 telefonos (ademas del color y la palomita en la lista)."
+}
