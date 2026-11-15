@@ -1,0 +1,5 @@
+{
+  "version": "1.5.3",
+  "name": "SOPA DE 2",
+  "notes": "Arreglo emparejamiento: RANDOM usa sala compartida, UNIRSE muestra Conectando / Codigo no encontrado / error de servidor, onclose/onerror, normaliza formatos de servidor, desempate de jugador en RANDOM, ranking mezcla local+servidor sin borrar tu perfil."
+}
