@@ -1,0 +1,5 @@
+{
+  "version": "1.7.9",
+  "name": "SOPA DE 2",
+  "notes": "ARREGLO FOTO: el boton de la camara llamaba a abrirGaleriaFresca pero esa funcion no existia y no pasaba nada. Ahora si existe: abre la galeria, comprime la foto y la muestra al instante con aviso de estado. Tocar la foto o el circulo tambien abre la galeria. El boton de foto de editar perfil usa la misma funcion."
+}
