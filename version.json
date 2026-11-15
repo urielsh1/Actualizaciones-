@@ -1,0 +1,5 @@
+{
+  "version": "1.7.1",
+  "name": "SOPA DE 2",
+  "notes": "Si uno se sale en plena partida, el que se queda gana (+1 win) y el que se salio pierde (+1 derrota). Al terminar la partida (tiempo, completar o rival que se sale) se muestra el resultado 4 segundos y regresan al menu principal."
+}
