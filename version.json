@@ -1,5 +1,0 @@
-{
-  "version": "1.7.0",
-  "name": "SOPA DE 2",
-  "notes": "Ajustes es ventana centrada (en multi no pausa, en offline si). Multi: 8 palabras, mismo mapa para los 2 generado por el servidor, 8 direcciones, palomita al encontrar y celdas marcadas en los 2 telefonos. Guardar perfil sube al ranking global y Ranking muestra Cargando."
-}
