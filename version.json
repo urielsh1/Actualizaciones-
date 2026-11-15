@@ -1,0 +1,5 @@
+{
+  "version": "1.7.6",
+  "name": "SOPA DE 2",
+  "notes": "Top automatico: si ya tienes nombre/edad/foto guardados, al entrar al juego ya quedas en el Top solo, sin volver a darle a Guardar. Reconoce el registro viejo y el nuevo. La subida al servidor ahora espera respuesta y reintenta 3 veces por si Render estaba dormido."
+}
