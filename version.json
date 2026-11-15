@@ -1,0 +1,5 @@
+{
+  "version": "1.5.6",
+  "name": "SOPA DE 2",
+  "notes": "Si no se puede conectar al servidor, reintenta solo 5 veces despertando Render (no se rinde al primer fallo), sin cambiar el codigo de CREAR."
+}
