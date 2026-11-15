@@ -1,5 +1,0 @@
-{
-  "version": "1.6.0",
-  "name": "SOPA DE 2",
-  "notes": "Multijugador rehecho: el servidor junta a los 2, asigna Jugador 1 y 2 y reparte las mismas 10 palabras. Requiere el servidor nuevo (server.js)."
-}
