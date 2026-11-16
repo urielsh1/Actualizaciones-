@@ -1,0 +1,5 @@
+{
+  "version": "1.12.11",
+  "name": "SOPA DE 2",
+  "notes": "Buzon mas limpio: en la lista solo sale el boton Resultados de tu reporte con la fecha, al tocarlo abre otra ventana con el texto limpio y los detalles en filas. Al tocar Buzon la ventana siempre sale en el menu, no encima del chat. Correo ahora se llama Resultados de tu reporte y dice 1 minuto / 1 hora en singular."
+}
