@@ -1,0 +1,5 @@
+{
+  "version": "1.12.6",
+  "name": "SOPA DE 2",
+  "notes": "Nuevo: Retar desde el chat. El boton Retar manda un reto a todos los del chat, les sale un cuadro con tu nombre y Aceptar/Rechazar. Si alguien acepta, los 2 entran a partida como sala aleatoria. El reto dura 60s, puedes cancelarlo tocando Retar otra vez. Baneados no pueden retar."
+}
