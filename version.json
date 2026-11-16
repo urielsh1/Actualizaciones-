@@ -1,5 +1,0 @@
-{
-  "version": "1.12.0",
-  "name": "SOPA DE 2",
-  "notes": "ADMIN: app aparte (admin.html) con lista de jugadores, ban/desbanear y enviar objetos, enlazada al servidor. El juego revisa si estas baneado al entrar."
-}
