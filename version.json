@@ -1,5 +1,0 @@
-{
-  "version": "1.8.1",
-  "name": "SOPA DE 2",
-  "notes": "PRESENCIA: cada 30s el juego avisa que sigues activo (bolita verde) y al salir avisa que te fuiste (bolita gris). El filtro Activos ahora solo muestra a los que de verdad estan en el juego."
-}
