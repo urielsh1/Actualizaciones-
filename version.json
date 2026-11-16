@@ -1,0 +1,5 @@
+{
+  "version": "1.12.4",
+  "name": "SOPA DE 2",
+  "notes": "Modo solitario (niveles 1-9) ahora da +1 victoria en el Ranking cada vez que pasas un nivel. Nivel 10 contra el bot sigue sin contar. Solo wins, sin derrotas en solitario."
+}
