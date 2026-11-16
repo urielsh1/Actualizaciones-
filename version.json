@@ -1,0 +1,5 @@
+{
+  "version": "1.12.7",
+  "name": "SOPA DE 2",
+  "notes": "Chat con historial: al entrar al chat se cargan los ultimos 50 mensajes que hablaron, aunque hayas salido. El historial se guarda en el servidor (chat.json). Lo demas igual: mensajes nuevos en vivo, Retar, baneados no escriben."
+}
