@@ -1,0 +1,5 @@
+{
+  "version": "1.9.2",
+  "name": "SOPA DE 2",
+  "notes": "INICIA SOLO AL ENTRAR: la musica ya no espera a que toques la pantalla. Al entrar arranca en mudo (lo unico que el sistema deja sin toque) y a los 1.5 seg se destapa sola el sonido, reintentando sola cada 2 seg si el sistema la tapa. Al primer toque tambien se entra a pantalla completa."
+}
