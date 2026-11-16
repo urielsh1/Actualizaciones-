@@ -1,5 +1,0 @@
-{
-  "version": "1.12.3",
-  "name": "SOPA DE 2",
-  "notes": "Estado Activo/Desconectado ahora se refleja en ~45s (antes 2 min). Fix: duplicados del ranking ya no reviven la bolita verde. Aviso de 'ya me fui' mas confiable."
-}
