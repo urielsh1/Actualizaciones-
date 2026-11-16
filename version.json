@@ -1,5 +1,0 @@
-{
-  "version": "1.12.2",
-  "name": "SOPA DE 2",
-  "notes": "Fix: el aviso de version vieja ya no sale cuando el APK va mas adelante que version.json. Comparacion de versiones por numeros."
-}
