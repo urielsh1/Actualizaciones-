@@ -1,5 +1,0 @@
-{
-  "version": "1.8.0",
-  "name": "SOPA DE 2",
-  "notes": "ARREGLO RANK: bajarRankingGlobal usaba const lista y luego la reasignaba, tronaba en silencio y cada telefono solo se veia a si mismo. Ahora si junta la lista del servidor con la local y se ven todos. Aviso visible en el Ranking con cuantos jugadores bajo del servidor."
-}
