@@ -1,5 +1,0 @@
-{
-  "version": "1.8.5",
-  "name": "SOPA DE 2",
-  "notes": "FOTO ARREGLADA: el selector de foto ya no se queda atorado en 'Abriendo tu galeria...'. El input ya nace sin bloqueo (antes tenia pointer-events:none y el APK lo ignoraba), y si la galeria no se abre o la cierras sin elegir, avisa y te deja intentar otra vez. Version fija en la esquinita."
-}
