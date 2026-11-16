@@ -1,5 +1,0 @@
-{
-  "version": "1.9.8",
-  "name": "SOPA DE 2",
-  "notes": "UN SOLO CUADRO: creas cualquier nombre y al iniciar sesion todo se carga en ese mismo cuadro, no se hace otro en el Top. El nombre viejo (ej. Wazaa) queda guardado como nombre viejo y ese cuadro viejo nunca vuelve a aparecer ni se vuelve a subir, aunque el servidor todavia lo tenga guardado."
-}
