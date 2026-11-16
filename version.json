@@ -1,0 +1,5 @@
+{
+  "version": "1.12.10",
+  "name": "SOPA DE 2",
+  "notes": "Menu: se quito Prueba - 2 personas y quedo el Buzon con punto rojo si hay correo sin leer. Al reportar a alguien y el admin lo banea, al que reporto le llega un correo de gracias con los detalles del baneo. Correos se borran despues de 1 dia. Reportes: si varios reportan a la misma persona llegan en uno solo con todos los motivos."
+}
