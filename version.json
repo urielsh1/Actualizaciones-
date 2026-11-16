@@ -1,0 +1,5 @@
+{
+  "version": "1.8.3",
+  "name": "SOPA DE 2",
+  "notes": "VERSION FIJA: la esquinita ya nace con la version correcta y no cambia al cargar. Una sola version en todo el juego (MI_VERSION), el auto-actualizador ya no usa su propia copia. Al actualizarse a una version nueva, se queda fija en esa."
+}
