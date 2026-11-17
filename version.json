@@ -1,0 +1,7 @@
+{
+  "version": "v1.12.30",
+  "name": "SOPA DE 2",
+  "notes": "CHAT: si no tienes nombre puesto, al mandar un mensaje el chat ya no se queda atorado, te dice que pongas tu nombre y te lleva directo al formulario. Antes el aviso no te llevaba a donde ponerlo y se veia como si el chat estuviera roto.",
+  "obligatoria": false,
+  "apk": "https://github.com/urielsh1/sopa-juego/releases"
+}
