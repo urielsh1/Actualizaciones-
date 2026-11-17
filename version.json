@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.46",
+  "name": "SOPA DE 2",
+  "notes": "PISTAS DE BIENVENIDA (lo que faltaba del refresh): las 2 pistas de regalo ahora son un PISO, no un regalo de una sola vez. Al iniciar sesión (botón Guardar perfil) y al abrir el juego, si tienes menos de 2 pistas te sube a 2. Así nunca entras con 0 aunque inicies sesión de nuevo, y no se pierden si el restaurar no llega (sin internet o servidor dormido). Si ya tienes 2 o más, no te toca nada. NO necesita servidor: solo juego."
+}
