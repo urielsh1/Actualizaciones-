@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.43",
+  "name": "SOPA DE 2",
+  "notes": "BOTÓN EQUIPAR SOLO: 1) Al abrir Animaciones en la tienda, el botón se refresca solo (antes se quedaba en 'Bloqueado' hasta que le picabas). 2) Al restaurar del Top también se refresca. 3) El botón ahora lee directo de lo guardado antes de decidir qué texto poner, así nunca miente. 4) Al equipar una animación, la elección también sube al Top. NO necesita servidor: solo juego."
+}
