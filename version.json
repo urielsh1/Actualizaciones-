@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.39",
-  "name": "SOPA DE 2",
-  "notes": "VENTANA DE GUARDADO: al terminar un nivel (normal o nivel 10 vs Bot) sale una ventana ☁️ Progreso: primero dice ⏳ Guardando..., y sola cambia a ✅ Progreso guardado cuando el servidor lo recibe. Si Render está dormido, dice ⏳ y ella sola cambia a ✅ cuando entra. Así ya sabes si se guardó sin adivinar. Solo juego, el servidor no se toca."
-}
