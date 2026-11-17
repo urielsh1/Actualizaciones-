@@ -1,7 +1,0 @@
-{
-  "version": "v1.12.29",
-  "name": "SOPA DE 2",
-  "notes": "GUARDADO EN LA NUBE: tu progreso (monedas, pistas, animaciones, niveles, perfil) ahora se sube solo al servidor cada vez que cambia y cada minuto. Si se borra el cache o reinstalas, al poner tu mismo nombre del inicio baja tu guardado. El buzon tambien recuerda tu nombre para reclamar aunque el perfil se borre a media sesion.",
-  "obligatoria": false,
-  "apk": "https://github.com/urielsh1/sopa-juego/releases"
-}
