@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.50",
+  "name": "SOPA DE 2",
+  "notes": "FIX: BOTÓN MULTIJUGADOR MUERTO TRAS PARTIDA: 1) El intervalo de 1s cerraba todas las ventanas de multi si _peleaIniciada estaba en true, y cancelarYVolverAlMenu no reseteaba esa bandera, así que la ventana de modos se cerraba al instante de abrirse y el botón se veía muerto. Ahora: el botón MULTIJUGADOR limpia _peleaIniciada/_partidaTerminada/_rivalConfirmado antes de abrir la ventana (abrir el multi = partida NUEVA), cancelarYVolverAlMenu también las limpia, y los intervalos solo cierran ventanas si estás DENTRO del juego, no en el menú. 2) Todo el clic del botón quedó en try/catch por pasos, ningún paso puede matar el clic. NO necesita servidor: solo juego."
+}
