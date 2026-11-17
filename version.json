@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.49",
-  "name": "SOPA DE 2",
-  "notes": "FIX: TE SACA Y YA NO DEJA ENTRAR AL MULTI: 1) La bandera _wsReintentando quedaba en true para siempre tras 5 fallos, y todos los intentos siguientes se salían sin reintentar ni avisar. Ahora se limpia al empezar cada intento nuevo y al rendirse tras 5 fallos. 2) El botón MULTIJUGADOR ya no se bloquea por navigator.onLine (en el APK se queda pegado en false aunque sí tengas datos); la conexión real + reintento es la prueba de verdad. 3) Un parpadeo de red (cambio WiFi/datos) ya no te tapa la pantalla con 'Sin internet' en plena partida ni con una ventana de multi abierta. NO necesita servidor: solo juego."
-}
