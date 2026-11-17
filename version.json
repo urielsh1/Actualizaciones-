@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.48",
-  "name": "SOPA DE 2",
-  "notes": "CONTEO 3-2-1 CON SONIDO + NOMBRES EN VS: 1) El conteo ahora suena: bip 'count' en 3, 2 y 1, y 'start' en ¡A BUSCAR! (antes solo sonaba 'start' una vez al abrir). 2) La pantalla VS ya muestra los nombres reales: inicial en el círculo, nombre + color debajo y bandera del país. Antes decía TÚ / RIVAL y 'Sin nombre, sin foto' siempre. El nombre del rival ya venía del servidor (rivalPerfil), solo que el VS nunca lo usaba. NO necesita servidor: solo juego."
-}
