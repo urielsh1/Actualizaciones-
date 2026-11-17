@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.42",
-  "name": "SOPA DE 2",
-  "notes": "ANTI-DUPLICADO: 1) El panel ya no manda el mismo regalo 2 veces (botón bloqueado mientras envía). 2) El buzón ya no aplica un premio sin que el servidor confirme y borre el correo (antes el mismo regalo se podía reclamar mil veces y se duplicaban monedas y pistas). 3) Cada correo reclamado queda marcado en el teléfono y no se aplica 2 veces. 4) Al desbloquear una animación, se sube al Top de una vez (antes solo a la nube y el Top viejo la borraba al restaurar). 5) Restaurar del Top ya no tapa la nube con fecha de ahora. NO necesita servidor: solo juego + panel."
-}
