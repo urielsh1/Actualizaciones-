@@ -1,7 +1,0 @@
-{
-  "version": "v1.12.28",
-  "name": "SOPA DE 2",
-  "notes": "AUTO-UPDATE ARREGLADO: el juego ya vuelve a detectar versiones nuevas. Antes fallaba por 2 cosas: la \"v\" de \"v1.12.27\" rompía la comparación, y el APK leía su propio version.json viejo. Ahora checa el version.json en vivo de GitHub y en APK/itch avisa con botón de descarga. En GitHub Pages sigue recargando solo.",
-  "obligatoria": false,
-  "apk": "https://github.com/urielsh1/sopa-juego/releases"
-}
