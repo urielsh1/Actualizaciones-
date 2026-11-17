@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.37",
+  "name": "SOPA DE 2",
+  "notes": "GUARDADO IMPARABLE: al reclamar o ganar, el progreso se guarda y si Render está dormido se reintenta solo (5s, 15s, 30s...) hasta que entra. Además guarda solo cada 30 segundos, y si cierras la app a medias el pendiente se manda al abrir. Nuevo botón 💾 Guardar progreso en AJUSTES > Progreso en la nube para guardar manual cuando quieras. Nada de tus cosas se borra."
+}
