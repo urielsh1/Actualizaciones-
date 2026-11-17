@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.16",
-  "name": "SOPA DE 2",
-  "notes": "Chat se reconecta solo: si se cae la conexion o sales a otra ventana del celular y regresas, el chat vuelve a conectar sin pedirte entrar otra vez. Solo no reconecta cuando te sales del chat a proposito con Regresa."
-}
