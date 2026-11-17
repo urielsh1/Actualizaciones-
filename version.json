@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.44",
-  "name": "SOPA DE 2",
-  "notes": "CONCILIAR WINS DE SOLO: si pasaste niveles sin perfil (la app deja jugar solo sin cuenta), las wins nunca se contaban aunque el progreso sí se guardaba. Ahora al tener cuenta, el juego suma las wins que falten según tus niveles completados, sin duplicar jamás (lleva la cuenta de cuántas ya se contaron). Se concilia al abrir el juego y al abrir el Ranking. NO necesita servidor: solo juego."
-}
