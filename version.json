@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.41",
-  "name": "SOPA DE 2",
-  "notes": "MONEDAS Y NIVELES EN EL TOP: ahora viajan en la misma casilla del Ranking que las wins (que sí se guardaban). Al ganar monedas se suben al Top de una vez. Al reinstalar y entrar, si el teléfono está vacío, baja tus monedas y niveles de tu casilla del Top. IMPORTANTE: SÍ necesita servidor: subir server.js + package.json a Render y redesplegar, si no el servidor viejo ignora los campos nuevos."
-}
