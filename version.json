@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.27",
+  "name": "SOPA DE 2",
+  "notes": "RECLAMAR ARREGLADO: el botón Reclamar ya no se queda callado. Ahora dice Reclamando..., despierta al servidor antes de reclamar, no deja doble toque, y desbloquea la animación aunque la respuesta del servidor venga sin el objeto. En Animaciones, donde decía Bloqueado ahora dice Equipar."
+}
