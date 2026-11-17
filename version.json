@@ -1,0 +1,5 @@
+{
+  "version": "v1.12.40",
+  "name": "SOPA DE 2",
+  "notes": "DIAGNÓSTICO: el juego ahora DETECTA si el servidor de Render está viejo (responde 'ok' en texto plano porque no tiene la nube) y te lo dice en la ventana: 'El SERVIDOR está viejo: sube el server.js nuevo a Render'. El servidor nuevo responde su versión (v1.12.40) en cada guardado para que lo compruebes. IMPORTANTE: hay que subir server.js + package.json a Render y redesplegar, si no, nada se va a guardar."
+}
