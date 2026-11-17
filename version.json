@@ -1,0 +1,7 @@
+{
+  "version": "v1.12.33",
+  "name": "SOPA DE 2",
+  "notes": "CUENTA OBLIGATORIA: al entrar, si no tienes cuenta te pide entrar o crear una. Sin cuenta no se guarda perfil ni se sube nada al Top, asi no nacen nombres sueltos (uriel, mateo) que duplican. Borrar una cuenta ya no borra su casilla del ranking (ahi se perdian las victorias). La casilla queda con el nombre de la cuenta (Uriel, no uriel) y la fusión junta también la cuenta vieja y las casillas con el mismo ID del teléfono.",
+  "obligatoria": false,
+  "apk": "https://github.com/urielsh1/sopa-juego/releases"
+}
