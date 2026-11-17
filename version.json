@@ -1,7 +1,0 @@
-{
-  "version": "v1.12.31",
-  "name": "SOPA DE 2",
-  "notes": "PERFIL: si el nombre ya tiene cuenta (uriel = Uriel) te dice Ya está registrado, intente con otro. Al iniciar sesión el perfil se pone en tu nombre de cuenta y ya no se puede cambiar el nombre, solo la edad. Al crear o entrar a tu cuenta, tu progreso sube de una vez a la nube.",
-  "obligatoria": false,
-  "apk": "https://github.com/urielsh1/sopa-juego/releases"
-}
