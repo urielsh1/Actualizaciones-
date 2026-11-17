@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.51",
-  "name": "SOPA DE 2",
-  "notes": "FIX DEFINITIVO BOTÓN MULTIJUGADOR TRAS PARTIDA: entrarEsperaOnline les pegaba style='display:none' + style='pointerEvents=none' EN LÍNEA a las 4 ventanas de multi al entrar a una partida, y el estilo en línea le gana a la clase 'abierta'. Por eso tras la primera partida el clic sí corría pero la ventana seguía invisible ('le doy click y nada'). Ahora abrir() borra esos estilos en línea al abrir la ventana y la clase vuelve a mandar. NO necesita servidor: solo juego. Si la esquina sigue diciendo una versión vieja, cierra la app por completo y vuelve a abrirla para que cargue la nueva."
-}
