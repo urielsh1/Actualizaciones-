@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.53",
-  "name": "SOPA DE 2",
-  "notes": "FIX RIVAL CON VENTAJA AL DAR 'BUSCAR OTRA PARTIDA': antes al terminar la partida tu socket quedaba abierto dentro de la sala RND-ALE detrás de la ventana de Fin. Si el rival le daba a Buscar otra primero, el servidor los volvía a emparejar y la partida nueva empezaba sin que tú le dieras a nada, detrás de tu ventana, con el rival ya buscando palabras. Ahora: (1) JUEGO: al salir la ventana de Fin sales de la sala de una vez. (2) SERVIDOR: cuando se acaba la partida (sopa_fin) o alguien se sale (peer_left), se BORRA la sala, nadie queda buscando. Solo vuelves a buscar cuando TÚ le das a 'Buscar otra partida' -> 'Sala Aleatoria', y la partida solo inicia cuando los 2 ya están. SÍ necesita servidor: sube server.js + package.json a Render."
-}
