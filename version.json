@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.54",
-  "name": "SOPA DE 2",
-  "notes": "PISTAS: REGALO DE UNA SOLA VEZ. Se quitó el 'piso' que te volvía a subir a 2 pistas cada que entrabas. Ahora: solo se dan 2 pistas de regalo la primera vez que entras y ya. Si las gastas, quedas en 0 hasta que compres más (1 pista = 20 monedas) o te regalen por el panel. También se arregló el restaurar de la nube, que te subía a 2 aunque tuvieras 0 guardado. Aplica en todos los modos (solo, niveles y multijugador) porque las pistas son las mismas en todo el juego. NO necesita servidor: solo juego."
-}
