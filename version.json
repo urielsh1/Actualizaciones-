@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.60",
-  "name": "SOPA DE 2",
-  "notes": "AUTO-ACTUALIZACIÓN: el juego se actualiza solo, ya no hay que borrar caché. 10 NIVELES NUEVOS (11-20) en modo normal. 11 Verano, 12 Viajero, 13 Naturaleza, 14 Noche, 15 Océano, 16 Desierto, 17 Cielo, 18 Jardín, 19 Cocina (todos Fácil, sin tiempo), 20 Señor Bot (Normal, 2 minutos, 5 palabras, bot con más interacción: 1 palabra cada 12-20 seg, sigue lento). Nivel 10 al ganar: botón Continuar nivel (va al 11). Nivel 20 al ganar: Salir al menú o Reiniciar. Se quitó la tarjeta 'Nivel 11 Muy Pronto'. NO necesita servidor: solo juego."
-}
