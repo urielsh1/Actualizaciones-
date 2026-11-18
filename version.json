@@ -1,5 +1,0 @@
-{
-  "version": "v1.12.52",
-  "name": "SOPA DE 2",
-  "notes": "NUEVO: VENTANA FIN DE LA PARTIDA: al terminar una partida online (se acabó el tiempo, el rival terminó, o el rival se salió) ya no te saca solo al menú a los 4 segundos. Ahora sale una ventana 'Fin de la partida' con el resultado (empate / ganador / rival se salió) y 2 opciones: 'Buscar otra partida' (vuelve y abre la ventana de modos para elegir otra) y 'Menú'. Solo online, el modo solo quedó igual. NO necesita servidor: solo juego."
-}
