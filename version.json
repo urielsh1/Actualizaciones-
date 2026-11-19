@@ -1,0 +1,5 @@
+{
+  "version": "1.12.74",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.74: FIX LISTO que no marcaba: el latido join repetido hacia que el servidor re-mandara matched cada segundo y el juego re-abria LISTO reseteando tu LISTO a Esperando. Ahora matched solo se manda UNA vez por sala (servidor) y si ya estas en LISTO no se resetea (juego + version.js). Resto igual que 1.12.73."
+}
