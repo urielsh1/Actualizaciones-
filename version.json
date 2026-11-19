@@ -1,5 +1,0 @@
-{
-  "version": "1.12.72",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.72: pantalla de LISTO en multijugador: al encontrar rival sale ¿Listo? con contador de 10 seg, botón LISTO y Cancelar. Solo cuando los 2 le dan LISTO arranca la pelea, al mismo tiempo y con la misma sopa del servidor. Si en 10 seg no le dan los 2, los 2 regresan a modos. Cancelar quita de la lista y, si es crear sala, invalida el código. Crear sala ya no te mete a partida: te da el código en el menú. Al terminar, el sopa_fin sí sale (600ms de espera) y el socket fantasma ya no queda en la lista. Necesita servidor v1.12.72."
-}
