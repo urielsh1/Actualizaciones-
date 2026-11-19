@@ -1,0 +1,5 @@
+{
+  "version": "1.12.76",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.76: FIX LISTO de fondo: el servidor borraba la sala al instante cuando se caia un socket, y con el LISTO adentro nunca se juntaban los 2. Ahora la sala aguanta 8 seg de gracia para reconectar, el conteo de 10 seg corre 1 sola vez, sopa_listo usa la sala del socket, y el juego reenvia LISTO cada 1 seg hasta empezar. LISTO -> se crea la sala -> inicias normal, sin 3-2-1."
+}
