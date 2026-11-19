@@ -1,0 +1,5 @@
+{
+  "version": "1.12.83",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.83: Cada quien su LISTO con SU nombre (Uriel: LISTO / chatito: LISTO). Al estar los 2 listos, la partida INICIA SOLA del lado del cliente, sin esperar a que el servidor responda. La sopa se guarda desde el matched (los 2 tienen la misma). Al iniciar se manda sopa_empezado al rival como rescate + se sigue mandando LISTO 3 seg mas. El servidor reenvia sopa_empezado. Trae todo lo anterior."
+}
