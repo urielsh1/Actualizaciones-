@@ -1,0 +1,5 @@
+{
+  "version": "1.12.75",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.75: FIX LISTO en buscar aleatoria: el juego se quedaba con RND-ALE y mandaba LISTO a una sala que no existe, el servidor lo ignoraba. Ahora matched actualiza a la sala REAL (RND-XXXX), el boton marca PRIMERO en pantalla, y el servidor usa la sala real del socket si viene la vieja. Nuevo: los 2 listos -> se crea la sala -> 3-2-1 -> a jugar."
+}
