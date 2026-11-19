@@ -1,5 +1,0 @@
-{
-  "version": "1.12.78",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.78: FIX boton LISTO muerto: la ventana tenia 2 listeners capture con stopPropagation() que cortaban el toque ANTES de que llegara al boton, por eso le dabas LISTO y no aparecia nada en la ventana. Se quitaron (la ventana ya cubre la pantalla) y el boton ahora responde a click y a touchend. Resto igual que 1.12.77."
-}
