@@ -1,0 +1,5 @@
+{
+  "version": "1.12.80",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.80: FIX 'rival no se pone nada': el aviso Rival LISTO solo se mandaba 1 vez como push al socket guardado, y si ese socket estaba viejo se perdia. Ahora cada LISTO que mandas (se reenvia cada 1 seg) el servidor te responde en ese mismo socket vivo con el estado actual: si tu rival ya dio LISTO, te lo pone en pantalla en maximo 1 seg. Trae todo lo de 1.12.79 (gracia 8 seg, empezar directo al que manda, rescate desync)."
+}
