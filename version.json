@@ -1,5 +1,0 @@
-{
-  "version": "1.12.73",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.73: FIX LISTO: la ventana LISTO se veia pero el toque pasaba de largo y le pegaba al Cancelar de modos de atras -> menu con la ventana pegada. Ahora LISTO si recibe el toque, apaga los toques de las ventanas de abajo mientras esta abierto, y version.js pisa las funciones viejas aunque el index.html venga cacheado. Resto igual que 1.12.72."
-}
