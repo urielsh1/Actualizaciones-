@@ -1,5 +1,0 @@
-{
-  "version": "1.12.77",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.77: FIX VS que no salia: cada reconexion reseteaba _rivalConfirmado=false y entonces iniciarPelea() regresaba sin mostrar el VS ni el 3-2-1. Ahora reconectar no borra el rival, y al llegar sopa_empezar el rival queda confirmado si o si. Flujo: LISTO -> se crea la sala -> VS (Tal vs Tal) + 3-2-1 que ya trae el juego -> inicia. Servidor igual que 1.12.76 (gracia 8 seg, listo reenviado)."
-}
