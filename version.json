@@ -1,5 +1,0 @@
-{
-  "version": "1.12.82",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.82: FIX 'los 2 dan LISTO y no se marca nada' - causa raiz: cuando el telefono pierde la red no manda frame de cierre, el servidor nunca se entera y el socket guardado queda muerto. Servidor: reconexion = socket DISTINTO al guardado (antes solo si el viejo estaba en null). Juego: si mandas LISTO 3 veces sin que el servidor conteste nada, fuerzas reconexion con el mismo codigo. Trae latido de JOIN cada 3 seg (1.12.81), estado de LISTO (1.12.80), gracia 8 seg y empezar directo (1.12.79)."
-}
