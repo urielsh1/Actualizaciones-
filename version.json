@@ -1,0 +1,5 @@
+{
+  "version": "1.12.97",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.97: MULTIJUGADOR arreglado. 1) Si tu rival se sale, ganas automaticamente; si se sale antes de empezar, vuelves a modos sin atorarte. 2) Al cerrarse una partida nadie puede re-entrar ni tomar el lugar del que salio. 3) Sala aleatoria con cola: de 3 esperando se agarran 2 al azar y se les da sala privada, el que sobra sigue esperando. 4) Las animaciones equipadas ya se ven en los 2 telefonos aunque la nube no haya cargado. 5) Unirse por codigo ya no crea sala fantasma: solo el creador crea la sala y el error se ve en la ventana de espera. Incluye todo lo de 1.12.96 (niveles 51-70 y animacion SANTA)."
+}
