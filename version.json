@@ -1,5 +1,0 @@
-{
-  "version": "1.12.98",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.98: SANTA REGRESA. La animacion de Santa (id 8) se habia perdido y ya esta de vuelta completa: Santa y su reno recorren la palabra, dejan un regalo en cada casilla que explota en confeti que se queda hasta el final de la partida, sin emojis, con voz \"jo jo jo\", cascabeles y campanada. A la derecha Santa primero, a la izquierda el reno primero. Se desbloquea por Buzon/panel, se guarda en local, nube y Top, y se ve en los 2 telefonos en multijugador. Incluye todo lo de 1.12.97 (multi arreglado, niveles 51-70 y SANTA)."
-}
