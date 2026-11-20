@@ -1,0 +1,5 @@
+{
+  "version": "1.12.102",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.102: JUGADOR 2 YA VE EL TABLERO + BOTON CANCELAR. Bug: el setTimeout del onopen (800ms) volvia a llamar a entrarEsperaOnline aunque la pelea ya habia empezado, tapando el tablero con \"Esperando al Jugador 2\" (el timer seguia y el mensaje PELEA quedaba, pero sin mapa). Ahora si la pelea ya empezo no vuelve a la espera ni re-arma el latido. El Jugador 2 ya ve el tablero, las palabras, las animaciones, el chat y la interaccion del rival igual que en Random. Nuevo boton Cancelar sala (solo el creador, en la barra del codigo): cancela el codigo en el servidor y ya nadie puede entrar con el. Incluye 1.12.101 (crear/unirse entran a espera, error vuelve al menu) y 1.12.100 (sala real en Random)."
+}
