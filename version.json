@@ -1,0 +1,5 @@
+{
+  "version": "1.12.96",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.96: 1) NIVELES 51-70 nuevos (Normal). 60 y 70 son Señor Bot, 1 minuto, inteligencia normal (misma velocidad que el 20 y 40). 2) El aviso de ganar el nivel 50 ya no es el final: ahora sale Continuar nivel al 51. El final es el 70. 3) Animación nueva SANTA (id 8) en la misma tabla de Animaciones, bloqueada igual que las demás, se guarda igual (local + nube + Top). Al encontrar palabra sale Santa con su reno y recorre la palabra: en palabra derecha deja casitas mini que desaparecen al momento, en palabra de lado (diagonal) deja regalos en todas las casillas que iluminan las de alrededor. Con sonidos: cascabeles al iniciar, campanita en cada casilla y campanada al final. Se ve en multijugador en los 2 teléfonos."
+}
