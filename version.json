@@ -1,0 +1,5 @@
+{
+  "version": "1.12.101",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.101: CREAR/UNIRSE ARREGLADO. Antes CREAR se quedaba en el menu con el codigo: si su conexion fallaba (servidor dormido) nunca entraba a la sala y el que se unia quedaba solo esperando al Jugador 2 para siempre (el error se mostraba en el menu, invisible desde la espera). Ahora CREAR y UNIRSE entran a la pantalla de espera (el creador ve su codigo arriba con boton Copiar). Si el servidor rechaza (codigo no encontrado, cancelado, sala llena), vuelves al menu con el error visible, no te quedas esperando. Reintentos para despertar al servidor de 5 a 8, con fetch de despertar en cada reintento. Incluye 1.12.100 (sala real del servidor en Random) y 1.12.99 (sin ventana LISTO)."
+}
