@@ -1,0 +1,5 @@
+{
+  "version": "1.12.100",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.100: MULTI ARREGLADO DE VERDAD. En Random el servidor crea sala privada RND-XXX pero el telefono se quedaba en RND-ALE, asi que palabras, chat, salir y fin se mandaban a una sala que no existe y el servidor las tiraba: entrabas pero nada se sincronizaba. Ahora al llegar matched el telefono adopta la sala REAL del servidor (reforzado en sopa_empezar). El peer_left ya tenia auto-ganar, ahora si llega (salir ya va a la sala real) y el marcador en pantalla tambien sube. Incluye 1.12.99 (sin ventana LISTO), 1.12.98 (SANTA de vuelta) y 1.12.97 (multi, niveles 51-70)."
+}
