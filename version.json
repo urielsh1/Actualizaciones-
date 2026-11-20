@@ -1,5 +1,0 @@
-{
-  "version": "1.12.95",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.95: 1) JUEGO: el login vuelve a como antes. Si la cuenta no está en el server, la crea sola con ese nombre y esa contraseña y te mete directo. 2) SERVER: el POST del Top ya no rechaza con 403 el restaurar sin token. Si la casilla de alguien con cuenta YA existe, no se toca (sigue protegida). Si NO existe, se crea una en Desconectado para que esa persona vuelva a aparecer en el Top. Antes el 403 rechazaba todo y el Top nunca se volvía a llenar. Hay que subir index.html + version.json al repo del juego Y server.js a Render."
-}
