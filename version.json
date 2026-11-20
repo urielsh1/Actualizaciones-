@@ -1,5 +1,0 @@
-{
-  "version": "1.12.99",
-  "name": "SOPA DE 2",
-  "notes": "v1.12.99: VENTANA LISTO MUERTA. Al emparejar (Random, Crear sala, Unirse, Reto) ya no aparece la ventana ¿Listo? ni el boton LISTO. El juego auto-manda LISTO al servidor y entra directo a la cuenta 3,2,1 y la partida. El tiempo_agotado del LISTO ya no puede sacar a nadie de una partida en curso. Incluye todo lo de 1.12.98 (SANTA de vuelta) y 1.12.97 (multi arreglado, niveles 51-70)."
-}
