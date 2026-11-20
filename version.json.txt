@@ -1,0 +1,5 @@
+{
+  "version": "1.12.89",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.89: 1) TODA palabra encontrada hace FLASH visible en sus celdas con el color de quien la encontro (azul J1 / rojo J2), aunque no tengas animacion equipada. Antes con anim 0 no pasaba NADA y no se veia la accion. 2) iniciarPelea ya no se vuelve a correr si ya inicio: antes el VS reaparecia a mitad de partida (la ventanita breve) y reiniciaba el timer. 3) Palabra del rival al reves se normaliza a la forma de la lista para que si se tache en la lista. Solo cambia el juego, el server NO se toca."
+}
