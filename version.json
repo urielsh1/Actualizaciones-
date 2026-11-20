@@ -1,0 +1,5 @@
+{
+  "version": "1.12.85",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.85: Al iniciar la partida se CIERRA la ventana 'Buscando jugador...' y las demas de multi. pararBuscando() solo apagaba los puntitos, no cerraba la ventana, por eso se quedaba pegada encima del VS. Trae todo lo anterior (1.12.84: al emparejar inicia solo, sin LISTO)."
+}
