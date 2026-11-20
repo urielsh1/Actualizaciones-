@@ -1,0 +1,5 @@
+{
+  "version": "1.12.90",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.90: 1) En matched ahora SI se aplica la sopa del servidor (crearSopa): antes cada telefono jugaba con su sopa local distinta, por eso la palabra del enemigo caia en celdas que en tu sopa eran otras letras y no se veia. Ahora los 2 juegan LA MISMA sopa. 2) En matched se manda LISTO al servidor para que cancele su timer de 10s. 3) Si de todos modos llega sopa_tiempo_agotado a mitad de partida, se ignora: la ventana de modos (la de iniciar partida) ya no se abre encima del juego. Solo cambia el juego, el server NO se toca."
+}
