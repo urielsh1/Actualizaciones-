@@ -1,0 +1,5 @@
+{
+  "version": "1.12.92",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.92: 1) Iniciar sesión YA NO crea cuentas. Si el nombre no está en los registros, el login dice 'Esa cuenta no existe, crea una' y NO entra. Para crear está el botón Crear cuenta. Antes el login llamaba solo a /cuenta/crear y te metía. 2) MI_VERSION sube a 1.12.92 para que al subir index.html + version.json juntos se quite el aviso de versión. Solo cambia el juego, el server NO se toca."
+}
