@@ -1,0 +1,5 @@
+{
+  "version": "1.12.86",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.86: Al emparejar, ANTES de iniciar se hace entrarEsperaOnline(sala), que es lo que muestra #juego y oculta #menu. El matched 1.12.84 llamaba iniciarPelea() directo sin entrar, asi que #juego quedaba oculto y no se veia el campo de batalla. Trae todo lo anterior (1.12.85 cierra ventana Buscando, 1.12.84 inicia solo sin LISTO)."
+}
