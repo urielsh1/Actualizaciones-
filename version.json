@@ -1,0 +1,5 @@
+{
+  "version": "1.12.88",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.88: Arreglo TODO el multijugador. 1) Palabra del rival: ya no se filtra por sala ni por jugador distinto (el servidor ya solo la manda al rival de la misma sala). Si el jugador que viene es igual al mio, se trata como el rival. Ahora si se tacha para los 2, sube el marcador y sale la animacion del rival. 2) Guard _salaMsg ya no tira los mensajes del juego (palabra, chat, fin, rival se salio, rival entro). 3) Al rival encontrar palabra, suena el 'find' en tu telefono. Solo cambia el juego, el server NO se toca."
+}
