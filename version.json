@@ -1,0 +1,5 @@
+{
+  "version": "1.12.91",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.91: 1) Rival se sale -> victoria de una. Cuando el rival cierra la app sin cancelar, el servidor manda sopa_tiempo_agotado (no peer_left). Ahora a mitad de partida ese mensaje te da la victoria automatica (antes se ignoraba y te quedabas esperando). peer_left sigue dando victoria igual. Empate ya se detectaba en fin() y sopa_fin (ganador 0 = EMPATE). 2) Cancelar ya no te vuelve a meter: cancelarYVolverAlMenu ahora limpia _listoReenvio (el intervalo que a los 3s forzaba reconexion con el mismo codigo y te metia de nuevo). Ademas matched / sopa_empezar / sopa_empezado ignoran mensajes que llegan despues de cancelar. Solo cambia el juego, el server NO se toca."
+}
