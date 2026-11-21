@@ -1,0 +1,5 @@
+{
+  "version": "1.12.104",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.104: NIVEL 29 ARREGLADO. HERRAMIENTAS tenia 12 letras y no cabia en la sopa de 10x10, nunca aparecia en el mapa. Se cambio por COSTAL (6 letras). Incluye 1.12.103 (nivel 25 LUCIERNAGAS -> DETENER)."
+}
