@@ -1,0 +1,5 @@
+{
+  "version": "1.12.107",
+  "name": "SOPA DE 2",
+  "notes": "v1.12.107: Boton CANCELAR de CREAR SALA ya responde: cancela la sala (invalida el codigo) y te deja en la ventana de modos (donde eliges Crear/Unirse/Aleatoria). Incluye 1.12.106 (unirse por codigo = auto-LISTO, igual que random)."
+}
